@@ -10,7 +10,7 @@
   "text": {
     "more": "Test",
     "intro": "Test",
-    "title": "Irpet Supply Chain"
+    "title": "Irpet Supply Network"
   },
   "legend": {
     "edgeLabel": "Supply",
@@ -19,12 +19,12 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
-    "hoverBehavior": "dim"
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": true,
-    "imageAttribute": "Id"
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
